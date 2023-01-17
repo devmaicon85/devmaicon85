@@ -1,14 +1,5 @@
 ## Oi eu sou Maicon Gomes, desenvolvedor FullStack👋 
 
-<div align="center">
-<a style="display: inline_block" href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmaicon85&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a style="display: inline_block" href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaicon85&layout=compact&langs_count=7&theme=solarized-dark"/>
-  </a>
-</div>
-  
 ##
 
 <a style="display: inline_block" href="#"><br>
