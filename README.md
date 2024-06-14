@@ -14,6 +14,4 @@
 
 <div style="display: inline_block"> 
   <a href = "mailto:devmaicon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-
-  <a href = "https://wa.me/5551998718299"><img src="https://img.shields.io/badge/-WhatsApp-4444?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>  
